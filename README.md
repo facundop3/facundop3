@@ -1,4 +1,4 @@
-## // TODO : Say hi and welcome people to mi github 👀
+## // TODO : Say hi and welcome people 👀
 <!--
 **facundop3/facundop3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
